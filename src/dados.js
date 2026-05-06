@@ -51,7 +51,7 @@ while (indice09 < nomes.length) {
   indice09++
 }
 export const resposta09 = comVogal`,
-        comentario: "Mesma opinião de Damascena, achei muito massa a forma que a questão consegue clarear a mente sobre a estrutura dos dados",
+        comentario: "Mesma opinião de Heloísa, achei muito massa a forma que a questão consegue clarear a mente sobre a estrutura dos dados",
       },
       {
         tipo: "semAprendizado",
