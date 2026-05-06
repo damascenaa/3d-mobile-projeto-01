@@ -15,13 +15,13 @@ const styles = {
     display: "flex",
     flexDirection: "column",
     alignItems: "center",
-    padding: "1.4rem 2.5rem",
+    padding: "0.8rem 1.5rem",
     borderBottom: "1px solid #b0d4e8",
     backgroundColor: "#e8f4f8",
     position: "sticky",
     top: 0,
     zIndex: 100,
-    gap: "0.8rem",
+    gap: "0.5rem",
   },
   cabecalhoLogo: {
     fontSize: "1.2rem",
@@ -57,7 +57,7 @@ const styles = {
 
   rodape: {
     marginTop: "auto",
-    padding: "1.5rem 2.5rem",
+    padding: "0.8rem 1.5rem",
     borderTop: "1px solid #b0d4e8",
     backgroundColor: "#e8f4f8",
     textAlign: "center",
