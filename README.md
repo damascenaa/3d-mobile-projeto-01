@@ -83,4 +83,3 @@ A estrutura da aplicação deve seguir as regras abaixo:
 
 9. Clique no botão "Commit & push" e espere um pouco. Após o botão ficar desabilitado, a atividade foi enviada.  
 ![Botão de commit](./assets/readme/commit-04.png)  
-
